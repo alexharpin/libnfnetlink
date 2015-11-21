@@ -1,10 +1,19 @@
+libnfnetlink (1.0.1+vyos2+lithium1) unstable; urgency=low
+
+  [ Alex Harpin ]
+  * Update maintainer address
+  * libnfnetlink: add dh_gencontrol to enable development builds
+  * Switch to VyOS versioning for build integration
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sat, 21 Nov 2015 22:35:31 +0000
+
 libnfnetlink (1.0.1-1) unstable; urgency=low
 
   [ Alex Harpin ]
   * New upstream version 1.0.1
 
  -- Alex Harpin <development@landsofshadow.co.uk>  Sat, 21 Nov 2015 22:27:41 +0000
- 
+
 libnfnetlink (1.0.0-1) unstable; urgency=low
 
   [ Max Kellermann ]
