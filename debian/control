@@ -1,8 +1,7 @@
 Source: libnfnetlink
 Section: libs
 Priority: extra
-Maintainer: netfilter maintainers <netfilter-maintainers@ned.snow-crash.org>
-Uploaders: Max Kellermann <max@duempel.org>, Alexander Wirt <formorer@debian.org>
+Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
 Build-Depends: debhelper (>= 5), libtool
 Standards-Version: 3.8.3
 
